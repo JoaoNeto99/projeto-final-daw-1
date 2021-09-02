@@ -14,7 +14,7 @@ Ter instalado em sua máquina:
 
 # Tecnologias
 
-<span><img src="https://img.shields.io/static/v1?label=Tech&message=Java&color=007396&style=for-the-badge&logo=Java"/> <span><img src="https://img.shields.io/static/v1?label=DataBase&message=Postgres&color=2F5E8D&style=for-the-badge&logo=PostgreSQL"/></span> <span><img src="https://img.shields.io/static/v1?label=Framework&message=Spring Boot&color=6DB33F&style=for-the-badge&logo=Spring"/></span><span><img src="https://img.shields.io/static/v1?label=Test&message=JUnit&color=25A162&style=for-the-badge&logo=JUnit5"/></span> <span><img src="https://img.shields.io/static/v1?label=Engine&message=Thymleaf&color=005F0F&style=for-the-badge&logo=Thymleaf"/></span>
+<span><img src="https://img.shields.io/static/v1?label=Tech&message=Java&color=007396&style=for-the-badge&logo=Java"/> <span><img src="https://img.shields.io/static/v1?label=DataBase&message=Postgres&color=2F5E8D&style=for-the-badge&logo=PostgreSQL"/> </span> <span><img src="https://img.shields.io/static/v1?label=Framework&message=Spring Boot&color=6DB33F&style=for-the-badge&logo=Spring"/> </span><span><img src="https://img.shields.io/static/v1?label=Test&message=JUnit&color=25A162&style=for-the-badge&logo=JUnit5"/></span> <span><img src="https://img.shields.io/static/v1?label=Engine&message=Thymleaf&color=005F0F&style=for-the-badge&logo=Thymleaf"/></span>
 
 ## Configuração de Banco de Dados
 Crie o banco de dados
